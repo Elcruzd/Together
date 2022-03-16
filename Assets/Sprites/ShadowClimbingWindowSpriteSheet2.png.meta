@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: ff99590c8161feb4b9f69833edd03c91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822824806ba041f4aba7394bc6c426d2
+      internalID: -750550784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16759a84e82844bb7fbe23d090cfd4
+      internalID: 138165144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b00241e7da2bb458657c1f35fc63a3
+      internalID: -772740456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98614d15d0afd4f8c19a4756122c03
+      internalID: 1811740822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c19030fc2fc5dd478dfb792741441f9
+      internalID: -16203422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a099ad19fb37741b8e0f113a544f33
+      internalID: -614451522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd445095b864dc4fa7abd17de345658
+      internalID: 789083645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 232
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608bccdc05b98554da590634c64aed2b
+      internalID: 1771771843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 238
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2162378aef840743b1ce63e48620776
+      internalID: -1930268530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 0
+        width: 235
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a080f694cfaa4d8e5c306735b3139
+      internalID: 62475624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 0
+        width: 238
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8fbb812167bb249890be881a59169a
+      internalID: 1503380386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 0
+        width: 231
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc8f7671f720245882a5da8294d69d
+      internalID: -1407519129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 0
+        width: 247
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23769e86e49e84488e484c7f279bb22
+      internalID: 442965184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 0
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f33047a79c7564cb159ad257bb9120
+      internalID: -791476399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 0
+        width: 236
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095eb465bddee64889653e6960214dc
+      internalID: 34294946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 0
+        width: 243
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88cd721f792652499f20fa7b4160199
+      internalID: -639866101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf9dbada6facc942908eeb11f1483bf
+      internalID: 1385807423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025ac5f9596fc994ea45e0765cb6b2ad
+      internalID: 1237543766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1921efa8ecc594a4d885abc809bf44b6
+      internalID: 1951297826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1fd7c14176d04458ccad4453d677ba
+      internalID: 2006706606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ab88c2a500c54bb554bb882fa284b
+      internalID: -1191328565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbf23ecb75ad14eb11bae5cfb654e6
+      internalID: 1131464449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee411ba27132d684fa296ab9ded54fbe
+      internalID: -700366761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df73dd91f858c24eb5b37e93094cd80
+      internalID: -321079122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_24
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f5339a1a8e68944a95df7ec89714bb
+      internalID: -1846446118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_25
+      rect:
+        serializedVersion: 2
+        x: 5950
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d8a2948049604d91f4032f2752d44
+      internalID: -224517429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_26
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff63928b7f1a6f42abe9bf70f13347d
+      internalID: 158781046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_27
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dcd8fde4993964fae3c19064582be1
+      internalID: -1093891251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_28
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005240a2c9693140a18d0a656ba4706
+      internalID: -692662552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_29
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0b19a9fd11ef4683d5e6a9c6602e0
+      internalID: 1471206797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_30
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a88fcded5f5a4c80800152095be19
+      internalID: 1279059428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_31
+      rect:
+        serializedVersion: 2
+        x: 7378
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329beb93f0b1be4d92be8dc9512f7c1
+      internalID: 1202734397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 7616
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1f6a0ac45f3344981ad215a733929
+      internalID: 1492460819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72136f7b1eea17e49996f1af9f2343b1
+      internalID: 1705711286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 8092
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b14d79183d57db46b2e94ff92ac5694
+      internalID: -1566532382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba909f85ae2cd4d95482428c20dd6c
+      internalID: -1090158967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 8568
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08956ace9c524f34d84542d9c6d5f67b
+      internalID: 212994356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 8806
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168ae99c2572cd4bb7e43c7a2a6babc
+      internalID: 5357593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 9044
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398cb4862ef247a438421c7701b8dac1
+      internalID: 1227825402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 9282
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ff71b83c22af4e8d91f6118693836
+      internalID: 625846125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 9520
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79fda48629093747a82bb0029c00cc2
+      internalID: -1981966872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_41
+      rect:
+        serializedVersion: 2
+        x: 9758
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b3e91082d23704e9222d18e8040644
+      internalID: -1775476556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_42
+      rect:
+        serializedVersion: 2
+        x: 9996
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a825b933c84a40bf3d216a85bbef1
+      internalID: -586579314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_43
+      rect:
+        serializedVersion: 2
+        x: 10234
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e0226231cec34c8d6b398840fc030
+      internalID: -1423255855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_44
+      rect:
+        serializedVersion: 2
+        x: 10472
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f830996505526914eb8c450f54580423
+      internalID: -1961726864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_45
+      rect:
+        serializedVersion: 2
+        x: 10710
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e7e1d89322e6498dab94246ae08ee
+      internalID: 1046753994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_46
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be55b7cee13f910468d5f510c9ce0c22
+      internalID: 2053756259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_47
+      rect:
+        serializedVersion: 2
+        x: 11186
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a92212df175541b0d3a445e746f6a
+      internalID: -1475315379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_48
+      rect:
+        serializedVersion: 2
+        x: 11424
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be697d70a4569428546ab4a0ae98e3
+      internalID: 321391576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_49
+      rect:
+        serializedVersion: 2
+        x: 11662
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e9f757a4c966043a3dd8c8d62e5249
+      internalID: 1590114810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_50
+      rect:
+        serializedVersion: 2
+        x: 11900
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015c596f5e574b49afef3dafc77d8c2
+      internalID: -693386069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_51
+      rect:
+        serializedVersion: 2
+        x: 12138
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f3991b9a702c043ac1f017011db737
+      internalID: -1469134302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_52
+      rect:
+        serializedVersion: 2
+        x: 12376
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49074d13b1d76246861ad7684c7d169
+      internalID: 1521608330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_53
+      rect:
+        serializedVersion: 2
+        x: 12614
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda86b96631b6b74ebd659c4c078e859
+      internalID: -1361914438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_54
+      rect:
+        serializedVersion: 2
+        x: 12852
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9caeb78fbba0347b47814565559d58
+      internalID: -1983959624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_55
+      rect:
+        serializedVersion: 2
+        x: 13090
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c99aa96614308499c38e2b17fd62b3
+      internalID: -380378925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_56
+      rect:
+        serializedVersion: 2
+        x: 13328
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f20ce070f347b4daaed2a06ad4c511
+      internalID: -935598394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_57
+      rect:
+        serializedVersion: 2
+        x: 13566
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f12c98c860474b94c9f9ec216b2cb
+      internalID: -2514862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_58
+      rect:
+        serializedVersion: 2
+        x: 13804
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79592755b393144fbbb310ee15ad139
+      internalID: -1118097287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_59
+      rect:
+        serializedVersion: 2
+        x: 14042
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b42875fedd8643a498eabe594fbc2
+      internalID: 744437226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_60
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff592784cedc3a49bfca634a73d9072
+      internalID: -962504607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_61
+      rect:
+        serializedVersion: 2
+        x: 14518
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ae3a37b780fe4a960401a26dd29fd
+      internalID: 1287288788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowClimbingWindowSpriteSheet2_62
+      rect:
+        serializedVersion: 2
+        x: 14756
+        y: 0
+        width: 238.06349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1e6cd8f53942409ecabbb867fca64
+      internalID: -348068773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03780b35fdbd79e4e9d948111c7f8f99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShadowClimbingWindowSpriteSheet2_31: 1202734397
+      ShadowClimbingWindowSpriteSheet2_48: 321391576
+      ShadowClimbingWindowSpriteSheet2_60: -962504607
+      ShadowClimbingWindowSpriteSheet2_18: 1951297826
+      ShadowClimbingWindowSpriteSheet2_45: 1046753994
+      ShadowClimbingWindowSpriteSheet2_43: -1423255855
+      ShadowClimbingWindowSpriteSheet2_34: -1566532382
+      ShadowClimbingWindowSpriteSheet2_41: -1775476556
+      ShadowClimbingWindowSpriteSheet2_33: 1705711286
+      ShadowClimbingWindowSpriteSheet2_10: 1503380386
+      ShadowClimbingWindowSpriteSheet2_52: 1521608330
+      ShadowClimbingWindowSpriteSheet2_21: 1131464449
+      ShadowClimbingWindowSpriteSheet2_56: -935598394
+      ShadowClimbingWindowSpriteSheet2_38: 1227825402
+      ShadowClimbingWindowSpriteSheet2_47: -1475315379
+      ShadowClimbingWindowSpriteSheet2_5: -614451522
+      ShadowClimbingWindowSpriteSheet2_2: -772740456
+      ShadowClimbingWindowSpriteSheet2_46: 2053756259
+      ShadowClimbingWindowSpriteSheet2_4: -16203422
+      ShadowClimbingWindowSpriteSheet2_17: 1237543766
+      ShadowClimbingWindowSpriteSheet2_35: -1090158967
+      ShadowClimbingWindowSpriteSheet2_8: -1930268530
+      ShadowClimbingWindowSpriteSheet2_20: -1191328565
+      ShadowClimbingWindowSpriteSheet2_6: 789083645
+      ShadowClimbingWindowSpriteSheet2_11: -1407519129
+      ShadowClimbingWindowSpriteSheet2_0: -750550784
+      ShadowClimbingWindowSpriteSheet2_51: -1469134302
+      ShadowClimbingWindowSpriteSheet2_23: -321079122
+      ShadowClimbingWindowSpriteSheet2_40: -1981966872
+      ShadowClimbingWindowSpriteSheet2_1: 138165144
+      ShadowClimbingWindowSpriteSheet2_16: 1385807423
+      ShadowClimbingWindowSpriteSheet2_27: -1093891251
+      ShadowClimbingWindowSpriteSheet2_7: 1771771843
+      ShadowClimbingWindowSpriteSheet2_39: 625846125
+      ShadowClimbingWindowSpriteSheet2_62: -348068773
+      ShadowClimbingWindowSpriteSheet2_36: 212994356
+      ShadowClimbingWindowSpriteSheet2_13: -791476399
+      ShadowClimbingWindowSpriteSheet2_59: 744437226
+      ShadowClimbingWindowSpriteSheet2_24: -1846446118
+      ShadowClimbingWindowSpriteSheet2_9: 62475624
+      ShadowClimbingWindowSpriteSheet2_61: 1287288788
+      ShadowClimbingWindowSpriteSheet2_25: -224517429
+      ShadowClimbingWindowSpriteSheet2_42: -586579314
+      ShadowClimbingWindowSpriteSheet2_49: 1590114810
+      ShadowClimbingWindowSpriteSheet2_54: -1983959624
+      ShadowClimbingWindowSpriteSheet2_22: -700366761
+      ShadowClimbingWindowSpriteSheet2_28: -692662552
+      ShadowClimbingWindowSpriteSheet2_37: 5357593
+      ShadowClimbingWindowSpriteSheet2_15: -639866101
+      ShadowClimbingWindowSpriteSheet2_55: -380378925
+      ShadowClimbingWindowSpriteSheet2_3: 1811740822
+      ShadowClimbingWindowSpriteSheet2_53: -1361914438
+      ShadowClimbingWindowSpriteSheet2_19: 2006706606
+      ShadowClimbingWindowSpriteSheet2_12: 442965184
+      ShadowClimbingWindowSpriteSheet2_30: 1279059428
+      ShadowClimbingWindowSpriteSheet2_26: 158781046
+      ShadowClimbingWindowSpriteSheet2_50: -693386069
+      ShadowClimbingWindowSpriteSheet2_57: -2514862
+      ShadowClimbingWindowSpriteSheet2_29: 1471206797
+      ShadowClimbingWindowSpriteSheet2_14: 34294946
+      ShadowClimbingWindowSpriteSheet2_44: -1961726864
+      ShadowClimbingWindowSpriteSheet2_32: 1492460819
+      ShadowClimbingWindowSpriteSheet2_58: -1118097287
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 13f08f2a7e4c14e8c9f6ba5e807f2e30
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tombstone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9f0f19d7598f043abba353af5d4b6e1b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

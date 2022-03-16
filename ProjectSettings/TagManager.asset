@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Interact
+  - HoldInteract
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - player
+  - background
+  - spotLightIgnored
+  - noLight
+  - enemies
+  - player2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tree
+    uniqueID: 2555879999
+    locked: 0
+  - name: Rock
+    uniqueID: 3891629465
+    locked: 0
+  - name: Player
+    uniqueID: 773786493
+    locked: 0
+  - name: Tree2
+    uniqueID: 2895785925
+    locked: 0
+  - name: Ground
+    uniqueID: 1757978727
+    locked: 0

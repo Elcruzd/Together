@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 3779056aa2938bf42b26cbd15678ad0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001849ce3fd0264c8c4e6efa562d33c
+      internalID: -113217005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cdd853d5a8af54780c39a78fc839b5
+      internalID: 50586273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42d306469b5f9b4cabb7b4443c2c131
+      internalID: 1097076129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fba8962925f3947a224a27383eff41
+      internalID: -1607673202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa9a01f5cb4e449861e69034a26a27
+      internalID: -243900785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb4809ac26fde439b9ca0eb1307437
+      internalID: 375438298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d237e04a84f14c82680523a3cdb0f
+      internalID: 1026284828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc3c6e5945db3d4f9d84f5b4f7f6be9
+      internalID: 1887075533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05c5206c186ae408432c0fbd06992f
+      internalID: 466713330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 0
+        width: 512
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045cf52b559ddba4c813e3cc565d8340
+      internalID: 487899548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 2
+        width: 519
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b384108f252444f99b3f89d9940b00
+      internalID: -369924421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 0
+        width: 526
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68623e56a269cd4bb0dde706538827e
+      internalID: 2042593177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 0
+        width: 534
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edb62bbac2192439abc45919a0401a
+      internalID: 558647837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 6799
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d7c2bb1ed0ed499457f4760cc8029
+      internalID: 833226999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 7322
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7094f7c56b0b47a987b36639b253d
+      internalID: 2035715062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 7845
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a7b4082ec8b94ba0154191402c88d
+      internalID: 439696350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 8368
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc85876f6202674ba128793fafc59e0
+      internalID: -1659139449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuddleOutWindowSpriteSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 8891
+        y: 0
+        width: 523
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46805d94871ff1e4a9cdf08cfd731ae8
+      internalID: 758585969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35d73096a1b9cae499b3de99d9a34b70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PuddleOutWindowSpriteSheet1_8: 466713330
+      PuddleOutWindowSpriteSheet1_14: 2035715062
+      PuddleOutWindowSpriteSheet1_5: 375438298
+      PuddleOutWindowSpriteSheet1_2: 1097076129
+      PuddleOutWindowSpriteSheet1_7: 1887075533
+      PuddleOutWindowSpriteSheet1_10: -369924421
+      PuddleOutWindowSpriteSheet1_11: 2042593177
+      PuddleOutWindowSpriteSheet1_16: -1659139449
+      PuddleOutWindowSpriteSheet1_6: 1026284828
+      PuddleOutWindowSpriteSheet1_3: -1607673202
+      PuddleOutWindowSpriteSheet1_0: -113217005
+      PuddleOutWindowSpriteSheet1_9: 487899548
+      PuddleOutWindowSpriteSheet1_15: 439696350
+      PuddleOutWindowSpriteSheet1_12: 558647837
+      PuddleOutWindowSpriteSheet1_13: 833226999
+      PuddleOutWindowSpriteSheet1_4: -243900785
+      PuddleOutWindowSpriteSheet1_17: 758585969
+      PuddleOutWindowSpriteSheet1_1: 50586273
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
